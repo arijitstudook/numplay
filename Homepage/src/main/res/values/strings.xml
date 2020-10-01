@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NumPlay</string>
+    <string name="help">help</string>
+    <string name="advance">expert</string>
+    <string name="intermediate">intermediate</string>
+    <string name="basic">basic</string>
+    <string name="enter_your_name">name</string>
+    <string name="name">Name</string>
+    <string name="expert">expert</string>
+    <string name="entername">enter your name</string>
+</resources>

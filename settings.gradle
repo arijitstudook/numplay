@@ -1,0 +1,2 @@
+include ':Homepage'
+rootProject.name = "My Application"
